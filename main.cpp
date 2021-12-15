@@ -4,10 +4,10 @@
 const char TITLE[] = "LC1B_03_イズミダマサト: タイトル";
 
 // ウィンドウ横幅
-const int WIN_WIDTH = 600;
+const int WIN_WIDTH = 800;
 
 // ウィンドウ縦幅
-const int WIN_HEIGHT = 400;
+const int WIN_HEIGHT = 800;
 
 int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ LPSTR lpCmdLine,
                    _In_ int nCmdShow) {
